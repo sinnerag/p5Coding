@@ -1,0 +1,3 @@
+Here is a simple clock built using the p5.js 
+To build this clock we made use of clock function from the library of resources available on p5.js webpage. A simple clock depicting how we can be creative and write our own clock design to display on the browser.
+There are lot of resources, libraries and references available on the website which can be made use of to develop something creative and intuitive. A new type of JavaScript created by Lauren McCarthy and is developed by a community of collaborators, with support from the Processing Foundation and NYU ITP. Identity and graphic design by Jerel Johnson. © Info.
